@@ -1,5 +1,5 @@
 # Introduction
-Hello! I'm Rohan Deshpande, a current student at UCLA studying [Computational and Systems Biology](https://casb.ucla.edu/).
+Hello! I'm Rohan Deshpande, a current student at UCLA.
 My profile consists of:
 * Shell scripts
 * [Nix](https://nixos.org/) flakes
