@@ -7,3 +7,5 @@ My profile consists of:
 * Dotfiles
 * Other side-projects I've been working on
 
+I'm interested in data engineering, modeling, and functional programming, and open source.
+Feel free to reach out!
