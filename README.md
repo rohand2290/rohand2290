@@ -5,10 +5,18 @@ My love for technology and programming started when I installed [Lubuntu](https:
 
 Starting off college, I was a premed student, with my eyes set on going into psychiatry or something with the mind. I realized that I actually really liked numbers and code more than I liked biology and anatomy. However, I'm interested in using the same Spring Boot stack I used as a 14 year old to architect high-performance, distributed systems, currently specializing within healthcare administration and electronic healthcare records (EHRs.) 
 
+# Projects
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [Schemaloom](https://github.com/schemaloom) | Schema-first LLM extraction pipelines. Transform unstructured text into validated JSON using TypeScript, Zod, and containerized APIs. | TypeScript, Docker, Zod, Langchain, Hono|
+| [BruinBites](https://github.com/Bruin-Bites) | Campus application to find the best deals on food and generate on-the-fly cheap recipes with RAG and generative AI. | Javascript, Gemini, Langchain, Axios |
+| [Cytoflow](https://github.com/rohand2290/cytoscape-data-pipeline) | Data pipeline to transform pathway/disease queries into SVG's and .cyjs files utilizing FastAPI and headless Cytoscape. | FastAPI, Docker, Java, py4cytoscape |
+| [Glutaview](https://github.com/rohand2290/glutothyination-db) | Frontend to see proteins involved in glutathionylation with NextJS, Tailwind, and Typescript | Jupyter, NextJS, Typescript |
+
 # Hobbies
 Other than coding, my hobbies are:
 * Reading a lot about history/geopolitics
-* Writing articles [Substack](https://rdeshpande.substack.com/)
+* Writing [articles](https://rdeshpande.substack.com/)
 * Lifting
 * Volunteering at local shelters/nonprofits whenever I get a chance
 * Hiking
