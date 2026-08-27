@@ -1,5 +1,5 @@
 # Introduction
-Hello! I'm Rohan a current student at UCLA studying Mathematics/Computer Science. 
+Hello! I'm Rohan, a current student at UCLA studying Mathematics/Computer Science. 
 
 My love for technology and programming started when I installed [Lubuntu](https://lubuntu.me/) on my mom's old Dell Inspiron from 2006 and got to mess around with a Linux terminal. Later on, I built small-scale scripts to automate tasks and dabbled in making small Discord bots and social-media esque web apps with Spring Boot and React early on in high-school. Later on, it became more of a passive thing I pursued as I focused more of my effort on trying to maximize my GPA and pursue other types of extracurriculars. 
 
