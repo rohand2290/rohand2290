@@ -1,16 +1,15 @@
 # About
 
-I'm a student at UCLA studying Math/CS. My love for technology and programming started when I installed [Lubuntu](https://lubuntu.me/) on my mom's old Dell Inspiron from 2006 and got to mess around with a Linux terminal. Later on, I built small-scale scripts to automate tasks and dabbled in making Discord bots and social-media-style web apps with Spring Boot and React early on in high school. Eventually it became more of a passive thing I pursued, as I put more of my effort into maximizing my GPA and other extracurriculars.
+I'm a student at UCLA studying Math/CS. My love for technology and programming started when I installed [Lubuntu](https://lubuntu.me/) on my mom's old Dell Inspiron from 2006 and got to mess around with a Linux terminal. Later on, I built small-scale scripts to automate tasks and dabbled in making Discord bots and social-media-style web apps with Spring Boot and React early on in high school. Eventually these small-scale coding projects became more of a passive activity I pursued, as I put more of my effort into polishing my high school profile. 
 
-Starting off college, I was a premed student with my eyes set on psychiatry or something with the mind. I realized I actually liked numbers and code more than biology and anatomy. Now I'm interested in using the same Spring Boot stack I used as a 14 year old to architect high-performance, distributed systems, currently specializing in healthcare administration and electronic health records (EHRs), as well as potential work with lab automation.
+Starting off college, I was a premed student with my eyes set on psychiatry or something involving the mind. I realized I actually liked numbers and code more than biology and anatomy. Now I'm interested in using the same Spring Boot stack I used as a 14 year old to architect high-performance, distributed systems, currently specializing in healthcare administration and electronic health records (EHRs), as well as potential work with lab automation, blogging systems. Occasionally, I'll also enjoy the occasional "dumb" pet-project, like a message broker in [Lean](https://lean-lang.org/). 
 
-I tend to think about software as the composition of individual parts, each specialized in its own function. This stems from my experience with Unix and the Unix philosophy of composable tools. It lends itself well to large-scale systems and infrastructure, where things get decomposed into microservices that communicate with each other and scale up or down according to load.
+I tend to think about software as the composition of individual parts, each specialized in its own function. This stems from my experience with Unix and the Unix philosophy of composable, minimal tools which can work together to solve large-scale problems. It lends itself well to large-scale systems and infrastructure, where things get decomposed into microservices that communicate with each other and scale up or down according to load.
 
 # Experience
 
 - **Roche — Software Engineering Intern (Jun 2026 – Present):** Working on backend infrastructure for DNA sequencing pipelines.
 - **VetsEZ — Software Engineering Intern (Sep 2025 – Jun 2026):** Built OAuth-secured API endpoints for programmatic access to VistA healthcare data.
-- **Drexel University — Software Engineering Intern (Jul 2025 – Sep 2025):** Built data pipelines and tools for bioinformatics researchers.
 
 # Projects
 
