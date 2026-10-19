@@ -8,7 +8,7 @@ I tend to think about software as the composition of individual parts, each spec
 
 # Experience
 
-- **Roche — Software Engineering Intern (Jun 2026 – Present):** Working on backend infrastructure for DNA sequencing pipelines.
+- **Roche — Software Engineering Intern (Jun 2026 – Sep 2026):** Working on backend infrastructure for DNA sequencing pipelines and NIPT lab automation.
 - **VetsEZ — Software Engineering Intern (Sep 2025 – Jun 2026):** Built OAuth-secured API endpoints for programmatic access to VistA healthcare data.
 
 # Projects
